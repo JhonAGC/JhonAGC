@@ -34,7 +34,7 @@ En mi tiempo libre, me gusta seguir aprendiendo sobre nuevas tecnologías y tend
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jhongutierrez.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jhonagc.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-gutierrez-cusiatado-software-developer-8a79b81b2)
 [![correo](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=&logoColor=white)](https://www.instagram.com/jhon5993/)
 
