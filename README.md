@@ -1,8 +1,6 @@
 
-# 😄 Hola, mi nombre es **Jhon Gutierrez** 👋
-
-**Freelance full-stack engineer**
-
+¡Hey 👋! Soy midudev 👨🏻‍💻
+Soy Desarrollador 
 
 
 
@@ -14,18 +12,6 @@
 
 
 
-
-![Logo](https://media.licdn.com/dms/image/D4E16AQG8pC5-_KRdQQ/profile-displaybackgroundimage-shrink_350_1400/0/1674788260415?e=1680134400&v=beta&t=DoKmw3CGRQhRE0lk_xfIYViOki1Xl8LeDaqvStPQNac)
-
-**Soy un ingeniero en computación de sistemas 💻 y técnico mecatrónico 🤖 con más de tres años de experiencia en el campo de TI 📡.**
-
-Empecé mi carrera laboral como técnico de TI, donde tuve la oportunidad de trabajar en proyectos relacionados con la gestión de redes y sistemas informáticos. Mi experiencia en este campo me dio una sólida comprensión de las tecnologías de la información y cómo aplicarlas para resolver problemas empresariales y de negocios.
-
-Después de algunos años, decidí aprovechar mis habilidades y conocimientos en desarrollo de software y me convertí en un desarrollador freelance. He trabajado en proyectos variados, desde desarrollo de aplicaciones web hasta sistemas de automatización de procesos industriales y robótica.
-
-Además de mi experiencia en computación de sistemas, también tengo habilidades en mecatrónica, lo que me permite diseñar y controlar sistemas mecánicos automatizados. Esto me ha permitido trabajar en proyectos integrados que combinan tecnologías de información y mecánica.
-
-En mi tiempo libre, me gusta seguir aprendiendo sobre nuevas tecnologías y tendencias en el campo de TI y mecatrónica. Estoy siempre buscando nuevos desafíos y oportunidades para aplicar mis habilidades y conocimientos.
 
 ## 🛠 Skills
 
