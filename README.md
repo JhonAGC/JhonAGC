@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my spare time, I dedicate myself to creating new tools that help the local community as well as hobbies and side hustles.\
 💬 &nbsp;Feel free to contact me for consulting and volunteering, or just for an interesting discussion.\
 ✉️ &nbsp;You can email me at jhon.jg735@gmail.com! I will try to answer as soon as I can..\
-📄 &nbsp;Please see my [resume] (https://jhonagc.github.io) for more details about me. I am open to comments and suggestions.!
+📄 &nbsp;Please see my (https://jhonagc.github.io) for more details about me. I am open to comments and suggestions.!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
