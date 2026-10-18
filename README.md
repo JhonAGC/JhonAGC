@@ -47,7 +47,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jhonagc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonagc" height="30" width="40" /></a>
 <a href="https://www.instagram.com/JHON_AGC/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhon" height="30" width="40" /></a>
-<a href="https://jhonagc.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="portafolio" height="30" width="40" /></a>
+<a href="https://jhonagc.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="portafolio" height="30" width="40" /></a>
 </p>
 
 
